@@ -1,13 +1,13 @@
 var CookieFactory = (
 	function () {
-
 		function CookieFactory() {
-			//this.boxCounter = 0;
-			//this.circleCounter = 0;
-		}
+			
+			//this.div = document.createElement('div');
+			//document.body.appendChild(this.div);
+			//this.div.className = 'box';
 
-		//Class Methods
-		
+			//this.SetPositioAndStyle();
+		}
 
 		return CookieFactory;
 	}
