@@ -1,0 +1,43 @@
+body {
+    background-color: lightyellow;
+}
+
+#abarrotes, #frutas, #facturacion {
+    width: 30%;
+}
+
+#botonAbastecerAbarrotes, #botonAbastecerFrutas {
+    display: block;
+}
+
+#container {
+    display: flex;
+}
+
+.button {
+    background-color: lightyellow;
+    border: pink solid 0.2px;
+    font-family: verdana;
+    color: black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 16px;
+    font-family: verdana;
+    color: purple;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: verdana;
+    color: maroon;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: verdana;
+    color: blueviolet;
+}
